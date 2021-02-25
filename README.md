@@ -2,8 +2,9 @@
 
 - :orange_book: Focusing on JavaScript & NodeJS & iOS
 - :hammer:  Interested in Coding & Basketball & Gaming
-- :ram: Lived in ShenZhen & Xiaan
+- :ram: Lived in ShenZhen & Xi'an
 - :meat_on_bone: Meat lover
+
 
 
 

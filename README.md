@@ -1,4 +1,4 @@
-### 你好，世界 👋
+### Hello World 👋
 
 - :orange_book: Focusing on JavaScript & NodeJS & iOS
 - :hammer:  Interested in Coding & Basketball & Gaming

@@ -10,12 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&width=480&lines=Full-Stack+Developer;AI+Agent+Engineer;JavaScript+Reverse+Engineer" alt="Typing SVG" />
 </div>
 
-<p align="center">
-    <a href="mailto:yang.li@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-</p>
-
 ### 🌈 Tech Stack
 
 <p align="center">

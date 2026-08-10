@@ -46,18 +46,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iafine&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 </div>
 
-### 📈 Activity Graph
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iafine&theme=react-dark&bg_color=20232a&color=58a6ff&line=58a6ff&point=40c463&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/iafine/iafine/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently building **AI Agents** and **full-stack products** end to end

@@ -33,7 +33,7 @@ Tap a word to save it. Pip, a jackdaw, remembers your level and brings words bac
 
 ## What I do
 
-Mossglen is built solo, front to back. Here's what's in it.
+All of this runs in Mossglen today.
 
 | | |
 |---|---|
@@ -43,4 +43,4 @@ Mossglen is built solo, front to back. Here's what's in it.
 
 <br />
 
-<p align="center"><sub>Shenzhen, China · Building in public on <a href="https://x.com/iafineden">X</a></sub></p>
+<p align="center"><sub>Got an idea or want to work together? <a href="https://x.com/iafineden">DM me on X</a>.</sub></p>
